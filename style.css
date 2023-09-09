@@ -1,0 +1,99 @@
+.bt{
+    border-radius: 25px;
+}
+
+body {
+    background-image: url('1.jpg');
+    background-repeat: no-repeat;
+    
+}
+h1 {
+    font-size: 50px;
+    font-weight: 400;
+}
+p{
+    font-size: 18px;
+    font-weight: 450;
+}
+.dv1{
+    height: 300px;
+    width: 500px;
+    text-align: left;
+    margin:17% 0% 10% 10%;
+    float:left;  
+}
+.dv2{
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    margin:10% 2% 10% 2%;
+    float:left;
+}
+.color{
+    color:rgb(180, 129, 51);
+}
+.dv3{
+    height: 600px;
+    width: 700px;
+    text-align: left;
+    margin:30% 0% 10% 3%;
+    float:left;
+    left:0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.dv4{
+    height: 500px;
+    width: 500px;
+    text-align: right;
+    margin:30% 3% 10% 0%;
+    float:left;
+}
+.c_g{
+    color:green;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 450;
+}
+.sdv{
+    height: 200px;
+    width: 300px;
+    text-align: left;
+    margin: 2%;
+    float: left;
+}
+.border{
+    border-radius:0px 50px 0px 50px;
+    box-shadow: -20px 20px;
+}
+.dv5{
+    width:100%;
+    height:10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fl{
+    float:left;
+    text-align: left;
+}
+.fc{
+    float:center;
+    text-align: center;
+}
+.fr{
+    float:right;
+    text-align: right;
+}
+.dv6{
+    width:1000px;
+    height:1000px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin:10% 0% 10% 0%;
+    background-image: url('sofa.jpg');
+}
+.dv{
+    height:300px;
+    width:04
+}
